@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelius1&label=Profile%20views&color=0e75b6&style=flat" alt="thelius1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/codesavant_1" target="blank"><img src="https://img.shields.io/twitter/follow/codesavant_1?logo=twitter&style=for-the-badge" alt="codesavant_1" /></a> </p>
-
-- 🔭 I’m currently worked on [Amazfit Smartwatch Ecommerce](https://amazfit-ecommerce.vercel.app)
+<p align="left"> <a href="https://twitter.com/codesavant_1" target="blank"><img src="https://img.shields.io/twitter/follow/codesavant_1?logo=twitter&style=for-the-badge" alt="codesavant_1" /></a>
 
 - 🌱 I’m currently learning **Tailwind CSS and Javascript**
 
 - 💬 Ask me about **Frontend Development and Web3**
 
-- 📫 How to reach me **theonlylius9@gmail.com**
+- 📫 How to reach me **anifowosetemitayo13@gmail.com**
 
 - ⚡ Fun fact **I love memes**
 
