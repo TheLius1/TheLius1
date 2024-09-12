@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/codesavant_1" target="blank"><img src="https://img.shields.io/twitter/follow/codesavant_1?logo=twitter&style=for-the-badge" alt="codesavant_1" /></a>
 
-- 🌱 I’m currently learning **Tailwind CSS and Javascript**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Frontend Development and Web3**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **anifowosetemitayo13@gmail.com**
 
